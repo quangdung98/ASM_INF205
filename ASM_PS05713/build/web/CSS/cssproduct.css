@@ -1,0 +1,60 @@
+	.hinhnen{position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;}
+	.container>nav{text-align:right;}
+	.container>nav>a{color:#FFF;
+					 text-decoration:none;
+					 margin:0 10px;
+					 font-family:Roboto;
+					 text-align:right;}
+	.container>nav>a:hover{color:black;
+						   text-align:right;}
+	.cuoi>p{text-align:center;
+		  font-family:Roboto;
+		  font-size:20px;
+		  color:#FFF;
+		  }
+	h2{color:#FFF;
+		font-family:Roboto;
+		font-weight:bold;}
+	.news{
+    width: auto;
+    height: auto;
+   	margin: 5px;
+    background-color:none;
+}
+.article {
+    width: 400px;
+    height: 350px;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 22px;
+    vertical-align:top;
+	
+}
+.thumb {
+    width: 300x;
+    height: 250px;
+    background-color: #3e3e3e;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+	
+	
+} 
+.title{text-align:center;
+		font-family:roboto;
+		color:#FFF;
+		font-weight:bold;
+		font-size:26x;
+		margin-top: 10px;}
+.addtocart{
+	text-align:center;
+		font-family:roboto;
+		color:#FFF;
+		font-weight:bold;
+		font-size:26x;
+		margin-top: 10px;}
+
+
+	
+			 					
